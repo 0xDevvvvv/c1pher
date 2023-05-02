@@ -1,5 +1,6 @@
 import argparse
 
+
 freelist=[]
 decrypted=''
 #works only with lower case alphabets and no special characters
