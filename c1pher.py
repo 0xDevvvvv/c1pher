@@ -39,7 +39,7 @@ def final_output(decrypted,freelist): # output in a variable
                 decrypted+=' '
                 continue
             decrypted+=i
-     return(decrypted) #print since we dont use  the value again    
+     return(decrypted) 
 
 if shift!=0:
     print("key : "+str(shift))
